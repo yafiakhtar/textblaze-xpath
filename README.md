@@ -2,8 +2,6 @@
 
 Builds a short, human-readable XPath selector for any element on a page in human readable form (in most cases).
 
-A video demo is included showing it in action across a few real pages.
-
 ---
 
 ## How to Test
